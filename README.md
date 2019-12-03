@@ -1,8 +1,8 @@
-## Nuxt.js による SPA 開発 実践編
+## Nuxt.js による Firebase 開発
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eeb8e99b-eedd-4e40-b3c4-c53c42cb53fd/deploy-status)](https://app.netlify.com/sites/books-nuxtjs-practice/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2abd5c33-3bf4-48b1-b420-ad6d97694d79/deploy-status)](https://app.netlify.com/sites/books-nuxtjs-firebase/deploys)
 
-https://nuxtjs-practice.lec.cafe/
+https://nuxtjs-firebase.lec.cafe/
 
 ## Usage
 

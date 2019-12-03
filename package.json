@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {
+        "docs:dev": "vuepress dev books",
+        "docs:build": "vuepress build books"
+    },
+    "dependencies": {
+      "linkify-it": "^2.2.0",
+      "vuepress": "^1.2.0"
+    }
+}

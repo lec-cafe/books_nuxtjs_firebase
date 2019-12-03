@@ -17,19 +17,3 @@ launch local server
 ```bash
 $ yarn run docs:dev
 ```
-
-## Contents
-
-Nuxt.js を用いて SPA を開発する講座の実践編です。
-
-## こんな方におすすめ
-
-資料は全てサンプルコード付きで紹介しますので、初心者の方も安心してご参加いただけます。
-
-
-## Ref 
-
-
-**lec-cafe/lec-cafe**
-
-https://github.com/lec-cafe/lec-cafe

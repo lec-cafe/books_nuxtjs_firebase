@@ -1,7 +1,4 @@
----
-title: 実践 Laravel REST API 開発
----
-# 実践 Laravel REST API 開発
+# Nuxt.js と Firebase を用いた SPA
 
 ![](/images/leccafe.png)
 

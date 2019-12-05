@@ -2,6 +2,7 @@ version: 1.0
 env:
   variables:
     key: value
+    hoge: piyo
 frontend:
   phases:
     preBuild:
@@ -9,8 +10,11 @@ frontend:
         - yarn install
     build:
       commands:
-        - nvm use $VERSION_NODE_10
+        - nvm use $VERSION_NODE_12
         - node -v
+        - nvm use $VERSION_NODE_12
+        - node -v
+        - echo ${hoge}
         - 'yarn run docs:build'
   artifacts:
     baseDirectory: books/.vuepress/dist

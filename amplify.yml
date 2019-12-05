@@ -1,4 +1,4 @@
-version: 0.1
+version: 1.0
 env:
   variables:
     key: value
@@ -9,6 +9,8 @@ frontend:
         - yarn install
     build:
       commands:
+        - nvm use $VERSION_NODE_10
+        - node -v
         - 'yarn run docs:build'
   artifacts:
     baseDirectory: books/.vuepress/dist

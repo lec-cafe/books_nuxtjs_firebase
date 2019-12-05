@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Nuxt.js による SPA 開発 実践編',
-    description: 'Vue.js 製のフロント制作フレームワーク Nuxt.js で SPA を構築する際の実践的手法を紹介します。',
+    title: 'Nuxt.js と Firebase を用いた SPA ',
+    description: 'Vue.js 製のフロント制作フレームワーク Nuxt.js と Firebase を使って SPA を構築する際の実践的手法を紹介します。',
     head: [
         ['script', { src: "https://static.codepen.io/assets/embed/ei.js"}]
     ],
@@ -37,7 +37,7 @@ module.exports = {
             ]
           },
         ],
-        repo: 'lec-cafe/books_nuxtjs_practice',
+        repo: 'lec-cafe/books_nuxtjs_firebase',
         repoLabel: 'Github',
         docsDir: 'books',
         editLinks: true,
